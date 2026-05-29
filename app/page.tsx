@@ -39,7 +39,7 @@ export default function Home() {
     {
       name: "Box Desayuno",
       description: "Sorprende a esa persona especial con una box cuidada al detalle. Incluye una selección premium de nuestra pastelería y mucho amor.",
-      image: "https://images.unsplash.com/photo-1600612253971-422e7f7faeb6?q=80&w=1974&auto=format&fit=crop",
+      image: "https://images.pexels.com/photos/6205587/pexels-photo-6205587.jpeg?auto=compress&cs=tinysrgb&w=800",
       whatsappMessage: "Hola! 🎁 Quisiera consultar por las box de desayuno."
     }
   ];
