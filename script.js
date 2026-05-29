@@ -15,7 +15,7 @@ const products = [
     {
         name: "Budines",
         description: "Sabores clásicos y especiales con una textura irresistible. Ideales para el desayuno o la hora del té, horneados con mucho amor.",
-        image: "https://images.pexels.com/photos/6205791/pexels-photo-6205791.jpeg?auto=compress&cs=tinysrgb&w=800",
+        image: "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flasrecetasdemiabuela.recipesown.com%2Fwp-content%2Fuploads%2F2024%2F04%2FBudin-de-Banana-2.webp&f=1&nofb=1&ipt=6fd95b5ed69d730492d9e346b122fce58fb8278b4e2bb16a58e58aa3b8da7f0b",
         whatsappMessage: "Hola! ✨ Quisiera consultar por los budines artesanales."
     },
     {
@@ -42,7 +42,7 @@ const events = [
     {
         name: "Cookies Infantiles",
         description: "Galletas temáticas decoradas a mano con glasé real, perfectas para souvenirs y mesas dulces infantiles.",
-        image: "https://images.pexels.com/photos/6163263/pexels-photo-6163263.jpeg?auto=compress&cs=tinysrgb&w=800",
+        image: "https://cdn.loveandlemons.com/wp-content/uploads/2025/12/christmas-cookies-580x804.jpg",
         whatsappMessage: "Hola! 🍪 Quisiera consultar por las cookies infantiles personalizadas."
     },
     {
