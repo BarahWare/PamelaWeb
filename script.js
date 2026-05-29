@@ -15,7 +15,7 @@ const products = [
     {
         name: "Budines",
         description: "Sabores clásicos y especiales con una textura irresistible. Ideales para el desayuno o la hora del té, horneados con mucho amor.",
-        image: "https://images.pexels.com/photos/291528/pexels-photo-291528.jpeg?auto=compress&cs=tinysrgb&w=800",
+        image: "https://images.pexels.com/photos/6205791/pexels-photo-6205791.jpeg?auto=compress&cs=tinysrgb&w=800",
         whatsappMessage: "Hola! ✨ Quisiera consultar por los budines artesanales."
     },
     {
@@ -33,7 +33,7 @@ const products = [
     {
         name: "Box Desayuno",
         description: "Sorprende a esa persona especial con una box cuidada al detalle. Incluye una selección premium de nuestra pastelería y mucho amor.",
-        image: "https://images.pexels.com/photos/1721932/pexels-photo-1721932.jpeg?auto=compress&cs=tinysrgb&w=800",
+        image: "https://images.pexels.com/photos/6205587/pexels-photo-6205587.jpeg?auto=compress&cs=tinysrgb&w=800",
         whatsappMessage: "Hola! 🎁 Quisiera consultar por las box de desayuno."
     }
 ];
@@ -42,7 +42,7 @@ const events = [
     {
         name: "Cookies Infantiles",
         description: "Galletas temáticas decoradas a mano con glasé real, perfectas para souvenirs y mesas dulces infantiles.",
-        image: "https://images.pexels.com/photos/2067436/pexels-photo-2067436.jpeg?auto=compress&cs=tinysrgb&w=800",
+        image: "https://images.pexels.com/photos/3738730/pexels-photo-3738730.jpeg?auto=compress&cs=tinysrgb&w=800",
         whatsappMessage: "Hola! 🍪 Quisiera consultar por las cookies infantiles personalizadas."
     },
     {
