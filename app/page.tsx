@@ -41,6 +41,12 @@ export default function Home() {
       description: "Sorprende a esa persona especial con una box cuidada al detalle. Incluye una selección premium de nuestra pastelería y mucho amor.",
       image: "https://images.pexels.com/photos/6205587/pexels-photo-6205587.jpeg?auto=compress&cs=tinysrgb&w=800",
       whatsappMessage: "Hola! 🎁 Quisiera consultar por las box de desayuno."
+    },
+    {
+      name: "Mini Donas",
+      description: "Mini donas artesanales esponjosas con glaseados y toppings variados. Perfectas para cumpleaños, eventos y antojos dulces.",
+      image: "https://images.pexels.com/photos/1191639/pexels-photo-1191639.jpeg?auto=compress&cs=tinysrgb&w=800",
+      whatsappMessage: "Hola! 🍩 Quisiera consultar por las mini donas."
     }
   ];
 
