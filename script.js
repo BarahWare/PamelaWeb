@@ -42,7 +42,7 @@ const events = [
     {
         name: "Cookies Infantiles",
         description: "Galletas temáticas decoradas a mano con glasé real, perfectas para souvenirs y mesas dulces infantiles.",
-        image: "https://images.pexels.com/photos/3738730/pexels-photo-3738730.jpeg?auto=compress&cs=tinysrgb&w=800",
+        image: "https://images.pexels.com/photos/6163263/pexels-photo-6163263.jpeg?auto=compress&cs=tinysrgb&w=800",
         whatsappMessage: "Hola! 🍪 Quisiera consultar por las cookies infantiles personalizadas."
     },
     {
