@@ -32,7 +32,11 @@ export default function Footer() {
           <ul className="space-y-3 text-sm mb-6">
             <li className="flex items-center gap-2">
               <Phone size={16} className="text-primary-400" />
-              <span>+54 351 875 1067</span>
+              <span>+54 351 572-2774</span>
+            </li>
+            <li className="flex items-center gap-2">
+              <span className="text-primary-400 font-bold">@</span>
+              <span>pamelagisel27@gmail.com</span>
             </li>
             <li className="flex items-center gap-2">
               <MapPin size={16} className="text-primary-400" />

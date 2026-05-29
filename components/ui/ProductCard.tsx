@@ -8,7 +8,7 @@ interface ProductCardProps {
 }
 
 export default function ProductCard({ name, description, image, whatsappMessage }: ProductCardProps) {
-  const whatsappUrl = `https://wa.me/543518751067?text=${encodeURIComponent(whatsappMessage)}`;
+  const whatsappUrl = `https://wa.me/5493515722774?text=${encodeURIComponent(whatsappMessage)}`;
 
   return (
     <div className="glass-card rounded-2xl overflow-hidden group flex flex-col h-full">

@@ -47,7 +47,7 @@ export default function Navbar() {
             </Link>
           ))}
           <a 
-            href="https://wa.me/543518751067?text=Hola!%20%E2%9C%A8%20Quisiera%20hacer%20una%20consulta."
+            href="https://wa.me/5493515722774?text=Hola!%20%E2%9C%A8%20Quisiera%20hacer%20una%20consulta."
             target="_blank"
             rel="noopener noreferrer"
             className="px-6 py-2 bg-primary-300 text-white rounded-full font-medium hover:bg-primary-400 transition-all shadow-md hover:shadow-lg"
