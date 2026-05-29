@@ -21,7 +21,7 @@ export default function Home() {
     {
       name: "Budines",
       description: "Sabores clásicos y especiales con una textura irresistible. Ideales para el desayuno o la hora del té, horneados con mucho amor.",
-      image: "https://images.unsplash.com/photo-1601314115160-c3d64e837136?q=80&w=2070&auto=format&fit=crop",
+      image: "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flasrecetasdemiabuela.recipesown.com%2Fwp-content%2Fuploads%2F2024%2F04%2FBudin-de-Banana-2.webp&f=1&nofb=1&ipt=6fd95b5ed69d730492d9e346b122fce58fb8278b4e2bb16a58e58aa3b8da7f0b",
       whatsappMessage: "Hola! ✨ Quisiera consultar por los budines artesanales."
     },
     {
@@ -48,13 +48,13 @@ export default function Home() {
     {
       name: "Cookies Infantiles",
       description: "Galletas temáticas decoradas a mano con glasé real, perfectas para souvenirs y mesas dulces infantiles.",
-      image: "https://images.unsplash.com/photo-1558961363-a0c84ce23862?q=80&w=1974&auto=format&fit=crop",
+      image: "https://cdn.loveandlemons.com/wp-content/uploads/2025/12/christmas-cookies-580x804.jpg",
       whatsappMessage: "Hola! 🍪 Quisiera consultar por las cookies infantiles personalizadas."
     },
     {
       name: "Mesas Dulces Infantiles",
       description: "Diseñamos mesas dulces completas con la temática elegida para que los más pequeños tengan una celebración inolvidable.",
-      image: "https://images.unsplash.com/photo-1535254973040-607b474cb50d?q=80&w=2070&auto=format&fit=crop",
+      image: "https://images.unsplash.com/photo-1767396867696-1a34d4fe2c43?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       whatsappMessage: "Hola! 🎈 Quisiera consultar por una mesa dulce infantil."
     },
     {
@@ -182,7 +182,7 @@ export default function Home() {
             >
               <div className="relative h-[500px] w-full rounded-2xl overflow-hidden shadow-2xl">
                 <Image
-                  src="https://images.unsplash.com/photo-1556206079-747a7a424d3d?q=80&w=2071&auto=format&fit=crop"
+                  src="https://images.pexels.com/photos/3768146/pexels-photo-3768146.jpeg?auto=compress&cs=tinysrgb&w=800"
                   alt="Pamela Bakery - Nuestra historia"
                   fill
                   className="object-cover"
